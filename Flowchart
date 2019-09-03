@@ -1,1 +1,14 @@
+#include <stdio.h>
 
+int main( ){
+	int A;
+	int B;
+	int C;
+	scanf("%d",A);
+	scanf("%f",B);
+	scanf("%d",C);
+	int D;
+	D=A*(1+B*C);
+	printf("%f la lai kep\n",D);
+	return 0;
+	}
