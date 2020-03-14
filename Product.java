@@ -11,15 +11,15 @@ package Product;
  */
 public class Product {
     private int id = 4;
-    private String name="đòng hồ";
+    private String name="?�ng h?";
     private double price=21.1;
     private int pty = 120;
     private String description;
 
     public Product(){
             id = 1;
-            name = "đàn guitar";
-            description = "đẹp zai";
+            name = "?�n guitar";
+            description = "??p zai";
             pty =17; 
 
     }
